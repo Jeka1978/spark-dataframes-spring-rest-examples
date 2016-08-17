@@ -1,0 +1,8 @@
+{"name":"Evgeny Borisov", "age":37, "keywords": ["spark", "java","spring","gradle","groovy","artifactory"]}
+{"name":"Martin Odersky", "age":37, "keywords": ["scala"]}
+{"name":"Baruch Sadogursky", "age":38, "keywords": ["docker", "spring","groovy","bintray","artifactory","linux"]}
+{"name":"Motros Jeleznyak", "age":37, "keywords": ["python","ruby"]}
+{"name":"Anton Arhipov", "age":37, "keywords": ["scala","groovy","gc","sbt","aspectJ"]}
+{"name":"Viktor Gamov", "age":28,"keywords": ["spring","maven","spock","spring boot"]}
+{"name":"Kirill Tolkachov", "age":28,"keywords": ["groovy", "spring","maven","spock","spring boot"]}
+{"name":"Nikolay Alimenkov", "age":35,"keywords": ["java", "spring","maven","spock","TestNG","junit","mockito"]}
